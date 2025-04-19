@@ -9,7 +9,7 @@ void main() async {
   runApp(const MessageBoardApp());
 }
 
-class MessageBoardApp extends StatelessWidget {
+class MessageBoardApp extends StatelessWidget { //done
   const MessageBoardApp({Key? key}) : super(key: key);
 
   @override
